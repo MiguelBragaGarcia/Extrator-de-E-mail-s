@@ -8,7 +8,7 @@
 
  <H2>-Instalando o PyTesseract </H2>
   A instalação do pytesseract no windows é um pouco mais complicada do que um simples pip install pytesseract.
-  E as istruções de instalação podem ser encontradas tanto no link do projeto https://github.com/tesseract-ocr/tesseract/wiki quanto nesse   tutorial.
+  E as instruções de instalação podem ser encontradas tanto no link do projeto https://github.com/tesseract-ocr/tesseract/wiki quanto nesse   tutorial.
   Bom então iremos pular a parte de encontrar o sistema operacional e vamos acessar o link direto para o download do instalador do windows.
   https://github.com/UB-Mannheim/tesseract/wiki . Depois de entrar nesse link basta escolher qual é compatível com seu sistema operacional baixar e instalar.
 
